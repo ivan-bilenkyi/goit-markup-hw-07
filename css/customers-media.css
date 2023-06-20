@@ -2,6 +2,9 @@
   .customers .container {
     width: 582px;
   }
+  .customer-list {
+    gap: 72px 24px;
+  }
   .customer-item {
     max-width: 190px;
     flex-basis: calc((100% - 48px) / 3);
